@@ -14,7 +14,7 @@ image:
 ui:
   color: "#3457c7"
   message: ""
-  logo: ""
+  logo: "" 
 
 # failure conditions
 faults:
